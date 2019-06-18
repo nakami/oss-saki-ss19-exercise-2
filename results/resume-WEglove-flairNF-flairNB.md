@@ -427,5 +427,5 @@ U-Designation tp: 10 - fp: 8 - fn: 27 - tn: 10 - precision: 0.5556 - recall: 0.2
 
 ### timings
 
-- per epoch: 12min / 1 epoch
-- run total: 3:40h
+- per epoch: ~12min
+- run total: ~3:40h
