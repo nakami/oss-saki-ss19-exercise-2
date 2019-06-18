@@ -5,7 +5,7 @@
 - sampling:     `1.0`
 - fullpath:     `/content/gdrive/My Drive/SAKI_2019/data/resources/tagger/resume-WEglove`
 - epochs:       `20`
-- size on disk: `? MB`
+- size on disk: `170 MB`
 
 ```python
 embedding_types: List[TokenEmbeddings] = [
