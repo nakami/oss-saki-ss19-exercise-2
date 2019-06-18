@@ -27,5 +27,5 @@ iae
 
 ### timings
 
-- beginning: min / 1 epoch
+- per epoch: min / 1 epoch
 - run totoal: h
